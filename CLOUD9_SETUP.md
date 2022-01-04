@@ -2,7 +2,7 @@
 
 ## Summary
 
-AWS Cloud9 provides a cloud IDE that can be used to create an environment that comes pre-installed with typical cloud development tools. The AWS IoT TwinMaker Getting Started samples provide a sample working development environment for building Digital Twins in AWS. Many required dependencies (such as awscli, cdk, and docker) come pre-installed in AWS Cloud9.
+test :AWS Cloud9 provides a cloud IDE that can be used to create an environment that comes pre-installed with typical cloud development tools. The AWS IoT TwinMaker Getting Started samples provide a sample working development environment for building Digital Twins in AWS. Many required dependencies (such as awscli, cdk, and docker) come pre-installed in AWS Cloud9.
 
 Note: If you encounter any issues, try checking the Troubleshooting section at the end of this page
 
